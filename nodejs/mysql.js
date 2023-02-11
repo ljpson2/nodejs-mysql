@@ -1,6 +1,7 @@
 var mysql      = require('mysql');
 var connection = mysql.createConnection({
-    host     : 'localhost',
+    host     : '3.39.252.42',
+    post     : 3306,
     user     : 'nodejs',
     password : '111111',
     database : 'opentutorials'
