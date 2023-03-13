@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb378e9c-578e-483f-97d8-e7f91b77ba22" name="변경" comment="mysql접속해결">
-      <change afterPath="$PROJECT_DIR$/script/deploy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
       <workItem from="1676169352132" duration="3780000" />
       <workItem from="1676269153087" duration="677000" />
       <workItem from="1676276035243" duration="68000" />
+      <workItem from="1678674520081" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="mysql접속해결">
       <created>1676121868339</created>
